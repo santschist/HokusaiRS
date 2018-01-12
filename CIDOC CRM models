@@ -1,4 +1,11 @@
-The following CIDOC CRM based maps are stored in this folder: 
-- Event map (2017/12/12)
-- Letter map (2017/12/18)
-- Inscription map (2017/12/13)
+The following CIDOC CRM based models are stored in this folder
+
+- Bibliographic references model 
+- Event model
+- Inscription model
+- Letter models: Primary and secondary letters (primary letters are physically available whereas secondary letters are known through references only.
+- Name, name-use, appellation, place of living model
+
+All models are CIDOC CRM (v.6.2) based and use SKOS to organise terminology. 
+Corresponding Excel templates are currently being created to facilitate data collection and transformation. 
+
