@@ -1,11 +1,20 @@
-The following CIDOC CRM based models are stored in this folder
+The following CIDOC CRM based models are version-controlled in this folder
 
 - Bibliographic references model 
+- Book model
 - Event model
+- Image and visual references model
 - Inscription model
-- Letter models: Primary and secondary letters (primary letters are physically available whereas secondary letters are known through references only.
 - Name, name-use, appellation, place of living model
+- Painting authenticity model
+- Letter models: Primary and secondary letters (primary letters are physically available whereas secondary letters are known through references only.
+- Design/Impressions/States modle
+- Book model (F|S)
+- Impression model (F|S)
+- Painting model (F|S)
+- Impression model (MET)
 
-All models are CIDOC CRM (v.6.2) based and use SKOS to organise terminology. 
+All models are CIDOC CRM (v.6.2) based and use SKOS to harvest terminology. 
 Corresponding Excel templates are currently being created to facilitate data collection and transformation. 
+Please note that these models are subjective and provisional. Contact for further information and suggestions. 
 
