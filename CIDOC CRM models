@@ -13,6 +13,7 @@ The following CIDOC CRM based models are version-controlled in this folder
 - Impression model (F|S)
 - Painting model (F|S)
 - Impression model (MET)
+- Painting model (MET)
 
 All models are CIDOC CRM (v.6.2) based and use SKOS to harvest terminology. 
 Corresponding Excel templates are currently being created to facilitate data collection and transformation. 
